@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oguquii.flashmango.com/sitemap.xml
